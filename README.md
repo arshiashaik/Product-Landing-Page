@@ -1,4 +1,4 @@
-# product_landing_page
+# Product landing page
 
 Tech Stack
   1. HTML
